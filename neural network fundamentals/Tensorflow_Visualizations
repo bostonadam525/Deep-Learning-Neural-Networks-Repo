@@ -1,0 +1,31 @@
+# Visualization of Neural Network using Tensorflow Playground
+
+Tensorflow Playground link: https://playground.tensorflow.org/
+
+
+1. Network takes in features => sends to hidden layers => random weights are updated => to make prediction => visualized in graph
+
+2. Compare prediction with "test loss" or "output" which tells you how "wrong" or "right" the neural nets prediction(s) are.
+
+3. loss value is sent back through network so the model weights are updated 
+
+4. Neural Net Processes
+
+**"Forward propagation"**
+left => right movement 
+- random values sent through network
+- weights updated 
+
+
+**"Backward propagation"**
+- obtain output or "test loss" from neural net prediction(s)
+- feed data backwards through neural network and update model weights 
+
+
+"Epochs"
+- An Epoch is a cycle of "forward" and "backward" propagation through the network. 
+- Obviously this can vary depending on the complexity of the network. 
+
+
+Neural Network Visualization
+
