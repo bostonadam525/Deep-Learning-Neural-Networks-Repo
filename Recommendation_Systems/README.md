@@ -16,7 +16,7 @@
 * [LinkedIn Jobs Recommendation Systems](https://pyimagesearch.com/2023/08/07/linkedin-jobs-recommendation-systems/)
 * [Netflix Movies and Series Recommendation Systems](https://pyimagesearch.com/2023/07/03/netflix-movies-and-series-recommendation-systems/)
 * [Patterns for Personalization in Recommendations and Search](https://eugeneyan.com/writing/patterns-for-personalization/)
-[Real-time Machine Learning For Recommendations](Real-time Machine Learning For Recommendations)
+* [Real-time Machine Learning For Recommendations](https://eugeneyan.com/writing/real-time-recommendations/)
 * [Pinterest Labs](https://www.pinterestcareers.com/pin-labs/)
 * [Snapchat - Embedding-based Retrieval with Two-Tower Models in Spotlight](https://eng.snap.com/embedding-based-retrieval?lang=en-US)
 * [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery/)
